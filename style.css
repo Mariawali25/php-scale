@@ -1,0 +1,75 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #808080
+
+}
+.phphead{
+    background-color: #ffffff;
+    color: #000000;
+    margin: 25px;
+    padding: 10px;;
+
+}
+h5{
+    color: #ffffff;
+    padding: 10;
+    box-sizing: border-box;
+
+}
+.one{
+    background-color:rgb(0, 0, 255)
+
+}
+.two{
+    background-color: rgb(81, 81, 238);
+}
+.three{
+    background-color: rgb(83, 102, 221);
+}
+.four{
+    background-color: rgb(77, 106, 236);
+
+}
+.five{
+    background-color: rgb(123, 123, 235);
+
+}
+.six{
+    background-color: rgb(126, 136, 230)
+
+}
+.seven{
+    background-color: rgb(156, 171, 241);
+
+}
+.eight{
+    background-color: rgb(0, 128, 0);
+
+}
+.nine{
+    background-color: lightpink
+
+}
+.ten{
+    background-color: rgb(253, 165, 179);
+}
+.eleven{
+    background-color: rgb(252, 146, 162);
+}
+.tweleve{
+    background-color: rgb(248, 134, 151);
+}
+.thirteen{
+    background-color: rgb(248, 102, 124);
+
+}
+.fourteen{
+    background-color: rgb(253, 83, 109);
+
+}
+.fifteen{
+    background-color: rgb(245, 55, 86);
+
+}
